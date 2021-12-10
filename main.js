@@ -21,8 +21,8 @@ function modelLoaded() {
 function draw() {
     image(video,0,0,600,550);
 
-    fill("#E18D7B");
-    stroke("#E18D7B");
+    fill("#0501FF");
+    stroke("#0501FF");
 
    if (scoreleftWrist >  0.2)   
  {
